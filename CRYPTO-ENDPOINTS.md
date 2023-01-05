@@ -7,3 +7,5 @@ REFERRAL
 TRADE
 FUTURES
 FUTURES-TRADE
+/api/v1/transaction-history
+transaction-history
